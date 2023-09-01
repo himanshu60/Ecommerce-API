@@ -99,17 +99,20 @@ Get Order by ID: GET /orders/order/{orderId}
 ```
 ## API Documentation
 ### User-swagger
-![users-swagger](https://github.com/himanshu60/Ecommerce-API/assets/65457075/5333e2a4-a7ad-47c6-86c5-020ccb7829e9)
+
+![users-swagger](https://github.com/himanshu60/Ecommerce-API/assets/65457075/d9a43f6d-7365-4e43-8404-4f9e8b41ff3e)
 
 ### Products-swagger
 
-![product-swagger](https://github.com/himanshu60/Ecommerce-API/assets/65457075/231c4899-bcf7-4d92-ab70-9897157fa481)
+![product-swagger](https://github.com/himanshu60/Ecommerce-API/assets/65457075/3b2ea569-67e0-47da-960a-f1c4e57e2d9e)
 
 ### Cart-swagger
-![cart-swagger](https://github.com/himanshu60/Ecommerce-API/assets/65457075/2d060492-8b04-43ab-82ea-8959adc8b81b)
+
+![cart-swagger](https://github.com/himanshu60/Ecommerce-API/assets/65457075/a1516508-8dd2-4a19-a95d-b06a4196c738)
 
 ### order-swagger
-![order-swagger](https://github.com/himanshu60/Ecommerce-API/assets/65457075/3b2d7d36-e777-4764-acc0-ff70ffe5ba07)
+![order-swagger](https://github.com/himanshu60/Ecommerce-API/assets/65457075/ced3481f-0600-4554-b4f7-1eecc0af0e75)
+
 
 
 For detailed API documentation, visit the Swagger Documentation.
