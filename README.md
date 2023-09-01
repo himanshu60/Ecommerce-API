@@ -58,6 +58,11 @@ Before getting started, make sure you have the following installed:
    npm install express mongoose bcrypt jsonwebtoken swagger-jsdoc swagger-ui-express
    ```
 
+4. Application Start
+   ```
+   node index.js
+   ```
+
 
 ## Usage
 ### Authentication
