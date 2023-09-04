@@ -2,6 +2,8 @@
 
 This is an API for managing an E-commerce website's backend operations, including user authentication, product management, cart, and order processing.
 
+## Backend Deploy-: https://triveous-ecommerce-api-l6ek.onrender.com/
+
 ## Table of Contents
 
 - [Features](#features)
