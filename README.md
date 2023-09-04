@@ -4,6 +4,8 @@ This is an API for managing an E-commerce website's backend operations, includin
 
 ## Backend Deploy-: https://triveous-ecommerce-api-l6ek.onrender.com/
 
+## Swagger UI-: https://triveous-ecommerce-api-l6ek.onrender.com/api-docs/
+
 ## Table of Contents
 
 - [Features](#features)
