@@ -101,7 +101,7 @@ Place an Order: POST /orders/order-place
 Get Order Details: GET /orders/order-details
 Get Order by ID: GET /orders/order/{orderId}
 ```
-## API Documentation
+## API Documentation Page
 ### User-swagger
 
 ![users-swagger](https://github.com/himanshu60/Ecommerce-API/assets/65457075/d9a43f6d-7365-4e43-8404-4f9e8b41ff3e)
