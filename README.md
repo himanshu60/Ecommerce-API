@@ -69,7 +69,7 @@ Before getting started, make sure you have the following installed:
 
 
 ## Usage
-### Authentication
+### Authentication Page
 To use protected routes, you must authenticate by obtaining a JWT token. Use the /users/login route to log in and get the token.
 
 
